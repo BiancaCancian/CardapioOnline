@@ -1,0 +1,186 @@
+
+/*Desktop (col-lg-12) 992+*/
+
+@media (max-width: 767px){
+     
+    /*excluir algo deixar não aparente*/
+    .no-mobile{
+        display: none;
+    }
+
+    .col-one{
+        padding-left: 15px!important;
+        padding-right: 15px!important;
+    }
+
+    .nav-toggler-icon{
+        padding-top: 5px;
+    }
+
+    .navbar-collapse{
+        background-color: var( --color-secundary);
+        padding: 20px;
+        text-align: center;
+        border-radius: 40px;
+    }
+
+    .navbar-collapse .btn-white{
+        margin-top: 20px;
+    }
+
+    .navbar-collapse .btn-icon {
+        padding-right: 20px;
+    }
+
+    .navbar-collapse .btn-icon span.icon {
+
+        display: none;
+
+    }
+
+    .title{
+        font-size: 30px;
+    }
+
+    .banner{
+        padding-bottom: 50px;
+    }
+
+    .servico{
+        padding-bottom: 100px;
+    }
+
+    .container-menu{
+        overflow-x: auto;
+        overflow-y: hidden;
+        display: flex;
+        padding-bottom: 15px;
+    }
+
+    .img-produto{
+        position: absolute;
+        left: 15px;
+    }
+
+    .card-item{
+        height: 110px;
+        padding-left: 110px;
+        justify-content: center;
+        align-items: start;
+    }
+
+    .card-item .img-produto img{
+        width: 80px;
+    }
+
+    .title-produto{
+        margin-top: 0px!important;
+        height: 30px!important;
+        width: 100%;
+        text-align: left!important;
+    }
+
+    .price-produto{
+        margin-bottom: 0px!important;
+        margin-top: 0px!important;
+        font-size: 22px!important;
+    }
+
+    .card-item .add-carrinho{
+        margin-top: 5px;
+    }
+
+    #itensCardapio .mb-5 {
+
+        margin-bottom: 15px;
+
+    }
+
+    #depoimentosClientes {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20PX;
+        
+    }
+    
+  
+    
+    #depoimentosClientes .row {
+        justify-content: center;
+    }
+    
+    #depoimentosClientes .col-md-4 {
+        margin: 5px; /* Ajuste o valor da margem conforme desejado */
+        
+    }
+
+    .reserva{
+
+        padding-bottom: 50px;
+
+    }
+
+    .car-secundary{
+
+        padding: 45px;
+        border-radius: 50px;
+
+    }
+
+    .container-logo-footer{
+        justify-content: center;
+    }
+
+    .container-texto-footer p {
+        text-align: center;
+    }
+
+    .container-redes-footer{
+        margin-top: 40px;
+        margin-bottom: 50px;
+        justify-content: center;
+    }
+
+    .modal-full{
+        padding: 40px;
+    }
+
+    .modal-full .item-carrinho{
+        padding-left: 0;
+        padding-right: 0;
+
+    }
+
+    .modal-full .img-produto {
+        position: relative;
+        left: 0;
+    }
+
+    .modal-full .img-produto img{
+        width: 50px;
+    }
+
+    .modal-full .dados-produto{
+        padding-left: 15px;
+        padding-right: 15px;
+        display: grid;
+    }
+
+
+
+    .modal-full .title-produto, .modal-full .price-produto{
+        font-size: 16px !important;
+    }
+
+    .modal-full .add-numero-itens{
+        padding: 2px 10px;
+    }
+
+    .modal-full .form-control{
+        font-size: 16px;
+
+    }
+
+
+}
