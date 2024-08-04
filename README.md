@@ -14,5 +14,11 @@
 
  - Conta com uma área de reserva, onde o cliente é redirecionado ao WhatsApp do estabelecimento
 
-  
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/cb31a094-be52-4acb-b4b1-10d659cea4fe" alt="Reserva" width="1000" height="600" />
+ </p>
+
+
+
+
 
