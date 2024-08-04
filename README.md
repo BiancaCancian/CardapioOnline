@@ -2,23 +2,14 @@
 
 - Conta com uma página inicial interativa para os clientes do restaurante.
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/f854b678-6a99-4be0-b8d2-5e4e4581a547" alt="INICIO" width="1000" height="600" />
-</p>
+ ![temp1](https://github.com/user-attachments/assets/9f04cf71-19ba-4fa4-af28-b0ea1717a6ab)
+ 
 
 - Conta com um cardapio interativo para realizar pedidos.
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/06e4b2de-76c4-4c0a-867c-b8b690eaf8dc" alt="CARDAPIO" width="1000" height="600" />
- </p>
+ ![temp2](https://github.com/user-attachments/assets/ec92f151-e7e4-4381-a814-8344b12e349d)
 
- - Conta com uma área de reserva, onde o cliente é redirecionado ao WhatsApp do estabelecimento
+- Conta com uma área de reserva, onde o cliente é redirecionado ao WhatsApp do estabelecimento
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb31a094-be52-4acb-b4b1-10d659cea4fe" alt="Reserva" width="1000" height="600" />
- </p>
-
-
-
-
+ ![temp3](https://github.com/user-attachments/assets/96c5557d-7992-46bf-9e91-ddd01547bb07)
 
