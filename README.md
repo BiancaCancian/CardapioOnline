@@ -1,5 +1,7 @@
 ## Projeto realizado para desenvolvimento pessoal com as ferramentas HTML, CSS e JS. 
 
+Acesse o projeto: https://cardapio-online-gamma-lemon.vercel.app/
+
 - Conta com uma página inicial interativa para os clientes do restaurante.
 
  ![temp1](https://github.com/user-attachments/assets/9f04cf71-19ba-4fa4-af28-b0ea1717a6ab)
